@@ -1,12 +1,8 @@
-<h1 align="center">Hello there</h1>
-<div align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blue" alt=""/>
-</div>
+<img align="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blue" alt=""/>
 
 - I’m a frontend engineer and project manager 💻
-
 - I have been living in Tokyo 🇯🇵 since 2017
-
 - In my spare time I enjoy 🏃‍ running, 🎸 guitar, 🎮 games, 🏖️ travel, 🏂 snowboarding and 🎨 creating generic art over at [codepen](https://codepen.io/suth_a)
 
 ---
@@ -39,6 +35,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelomo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="500"/>
-</div>
+<img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="500"/>
