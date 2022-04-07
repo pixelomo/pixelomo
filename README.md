@@ -1,7 +1,4 @@
 <h1 align="center">Hello there</h1>
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="500"/>
-</div>
 <div align="center">
   <img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blue" alt=""/>
 </div>
@@ -42,4 +39,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelomo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="500"/>
+</div>
