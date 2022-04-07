@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt=""/>
+<img align="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="" width="250"/>
 <img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blue" alt=""/>
 
 - I’m a frontend engineer and project manager 💻
