@@ -1,5 +1,5 @@
 <img align="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="" width="250"/>
-<img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blue" alt=""/>
+<img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blueviolet" alt=""/>
 
 - I’m a frontend engineer and project manager 💻
 - I have been living in Tokyo 🇯🇵 since 2017
