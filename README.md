@@ -52,5 +52,3 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pixelomo&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pixelomo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://media.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.gif" width="500"/>
