@@ -3,7 +3,7 @@
 
 - I’m a ~~Frontend Engineer~~ ChatGPT Prompt Engineer 💻
 - I've been living in Tokyo 🇯🇵 since 2017
-- In my spare time I enjoy 🏃‍ running, 🎸 guitar, 🎮 games, 🏖️ travel, 🏂 snowboarding and 🎨 creating generative art over at [codepen](https://codepen.io/suth_a)
+- In my spare time I enjoy 🏃‍ running, 🎸 guitar, 🎮 games, 🏖️ travel, 🏂 snowboarding and 🎨 creating animations over at [codepen](https://codepen.io/suth_a)
 
 ---
 #### 🛠️ Languages & Tools:
