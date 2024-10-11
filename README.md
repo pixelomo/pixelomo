@@ -1,7 +1,7 @@
 <img align="center" src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="" width="250"/>
 <img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blueviolet" alt=""/>
 
-- I’m a ~~Frontend Engineer~~ ChatGPT Prompt Engineer 💻
+- I’m a ~~Frontend Engineer~~ ~~ChatGPT~~ Cursor Prompt Engineer 💻
 - I've been living in Tokyo 🇯🇵 since 2017
 - In my spare time I enjoy 🏃‍ running, 🎸 guitar, 🎮 games, 🏖️ travel, 🏂 snowboarding and 🎨 creating animations over at [codepen](https://codepen.io/pixelomo)
 
