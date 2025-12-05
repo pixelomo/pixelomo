@@ -47,7 +47,3 @@
 </div>
 
 ---
-
-#### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pixelomo&theme=great-gatsby&border_radius=8&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-
