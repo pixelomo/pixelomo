@@ -1,6 +1,6 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blueviolet" alt=""/>
 
-- I’m a ~~Frontend Engineer~~ ~~ChatGPT~~  ~~Cursor~~ Claude Code Prompt Engineer 
+- I’m a web engineer · Applied AI & Creative Technology
 - I've been living in Tokyo 🇯🇵 since 2017
 - In my spare time I enjoy 🏃‍ running, 🎸 guitar, 🎮 games, 🏖️ travel, 🏂 snowboarding and 🎨 creating animations over at [codepen](https://codepen.io/pixelomo)
 
