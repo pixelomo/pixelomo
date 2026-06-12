@@ -1,8 +1,8 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=pixelomo&style=flat-square&color=blueviolet" alt=""/>
 
-- I’m a web engineer · Applied AI & Creative Technology
-- I've been living in Tokyo 🇯🇵 since 2017
-- In my spare time I enjoy 🏃‍ running, 🎸 guitar, 🎮 games, 🏖️ travel, 🏂 snowboarding and 🎨 creating animations over at [codepen](https://codepen.io/pixelomo)
+- I’m a British web engineer
+- I've been living in Tokyo since 2017
+- In my spare time I enjoy running, guitar, games, travel, snowboarding and creating animations over at [codepen](https://codepen.io/pixelomo)
 
 ---
 #### 🛠️ Languages & Tools:
